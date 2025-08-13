@@ -1,0 +1,19 @@
+{
+  "name": "my-ai-framework",
+  "version": "0.1.0",
+  "description": "PoC web framework that compiles plain English to an Express app via LLM tool calls.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "chokidar": "^3.5.3"
+  }
+}

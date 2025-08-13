@@ -1,0 +1,7 @@
+{
+  "gemini": {
+    "apiKey": "YOUR-GEMINI-API-KEY",
+    "model": "gemini-2.5-pro",
+    "openAIBase": "https://generativelanguage.googleapis.com/v1beta/openai"
+  }
+}

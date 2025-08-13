@@ -1,0 +1,19 @@
+Make a website with a shared header and footer on every page.
+
+The header should have the title "My Framework" and links to a "Home" page and a "Contact" page.
+The footer should just say "Copyright 2025 Expressive.JS".
+The entire website should have a nice gradient background, with glass morphic design elements
+
+Now make the pages.
+
+The Home page at.
+It needs a big title that says "Welcome.".
+Under the title put the "logo.png" image from the assets folder. The alt text for the image should be "Our company logo".
+Under the image add this text "The current time is CURRENTTIME.".
+
+The Contact page at contact.
+It needs a title that says "Contact Us".
+Under the title add a paragraph "You can reach us by email at https://www.google.com/search?q=helloexample.com".
+Add links to GitHub and reddit.com/r/vibecoding
+
+Finally make sure the time on the home page always shows the real live time from the server
