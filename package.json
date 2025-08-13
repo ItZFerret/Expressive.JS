@@ -1,5 +1,5 @@
 {
-  "name": "my-ai-framework",
+  "name": "expressivejs",
   "version": "0.1.0",
   "description": "PoC web framework that compiles plain English to an Express app via LLM tool calls.",
   "type": "module",
